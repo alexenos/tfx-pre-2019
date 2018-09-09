@@ -1,0 +1,6 @@
+Results_W_WorldWide_Latest_Open2018.csv filter=lfs diff=lfs merge=lfs -text
+tfx_qualifier_ISM_2018.csv filter=lfs diff=lfs merge=lfs -text
+tfx_qualifier_ISW_2018.csv filter=lfs diff=lfs merge=lfs -text
+tfx_qualifier_PAM_2018.csv filter=lfs diff=lfs merge=lfs -text
+tfx_qualifier_PAW_2018.csv filter=lfs diff=lfs merge=lfs -text
+Results_M_WorldWide_Latest_Open2018.csv filter=lfs diff=lfs merge=lfs -text
